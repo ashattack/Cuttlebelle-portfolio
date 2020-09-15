@@ -1,0 +1,12 @@
+layout: docs/page
+title: About
+
+header:
+  - /shared/nav.md
+
+docs:
+  - 01.md
+  - 03.md
+
+footer:
+  - /shared/footer.md

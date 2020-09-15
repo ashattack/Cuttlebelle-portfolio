@@ -1,0 +1,11 @@
+title: The react static site generator that separates editing and code concerns
+
+header:
+  - header.md
+  - /shared/nav.md
+
+main:
+  - index.md
+
+footer:
+  - /shared/footer.md

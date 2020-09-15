@@ -1,0 +1,10 @@
+title: Blog
+
+header:
+  - /shared/nav.md
+
+main:
+  - index.md
+
+footer:
+  - /shared/footer.md
